@@ -14,4 +14,3 @@ print(result)
 
 
 # Problem 3: Finding the largest prime factor of the number 600751475143
-
