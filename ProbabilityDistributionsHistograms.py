@@ -60,3 +60,4 @@ plt.figure(figsize = (15, 5))
 # Adjust layout and display
 plt.tight_layout()
 plt.show()
+
