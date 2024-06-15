@@ -3,13 +3,13 @@
 nums = [3, 5]
 max = 1000
 
-///
+'''
 result = 0
 for i in range(0, max):
     if i%3 == 0 or i%5 == 0:
         result += i
 print(result)
-
+'''
 # Problem 2: Finding the sum of the even valued terms of the Fibonacci sequence values under 4 million
 
 
