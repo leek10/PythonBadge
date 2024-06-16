@@ -33,5 +33,5 @@ while number > 1:
         factorList.append(divisor)  # adds number to list
         number /= divisor           # divides number by divisor and runs through again
     divisor += 1
-print("Problem 3 answer:",max(factorList))
+print("Problem 3 answer:", max(factorList))
 
