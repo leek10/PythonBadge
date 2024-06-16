@@ -1,17 +1,9 @@
-# Solving Project Euler Problems
-# Problem 1: Finding the sum of all the multiples of 3 or 5 below 1000 (goal: 233168)
-nums = [3, 5]
-max = 1000
+# This repository includes all of the exercises from the Python Badge.
 
-///
-result = 0
-for i in range(0, max):
-    if i%3 == 0 or i%5 == 0:
-        result += i
-print(result)
+# 1. Project Euler problems 1-3 solved.
 
-# Problem 2: Finding the sum of the even valued terms of the Fibonacci sequence values under 4 million
+# 2. Probability distribution (bionomial, normal, and uniform) histograms created through random unmber generators.
 
+# 3. The convergence of the binomial and normal distributions were shown.
 
-# Problem 3: Finding the largest prime factor of the number 600751475143
-
+# 4. Histogram of the computer hardware data was created after the data was imported and sorted into bins.
